@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nareshvishram/DSA-2026/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/nareshvishram/DSA-2026/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nareshvishram/DSA-2026/tree/master/0005-longest-palindromic-substring) |
+| [0141-linked-list-cycle](https://github.com/nareshvishram/DSA-2026/tree/master/0141-linked-list-cycle) |
 | [0647-palindromic-substrings](https://github.com/nareshvishram/DSA-2026/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/nareshvishram/DSA-2026/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/nareshvishram/DSA-2026/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
