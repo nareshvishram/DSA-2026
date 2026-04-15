@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/nareshvishram/DSA-2026/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/nareshvishram/DSA-2026/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/nareshvishram/DSA-2026/tree/master/0141-linked-list-cycle) |
 ## Sorting
