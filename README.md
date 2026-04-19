@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/nareshvishram/DSA-2026/tree/master/0049-group-anagrams) |
+| [0133-clone-graph](https://github.com/nareshvishram/DSA-2026/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/nareshvishram/DSA-2026/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/nareshvishram/DSA-2026/tree/master/0217-contains-duplicate) |
 ## Sorting
@@ -63,14 +64,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/nareshvishram/DSA-2026/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/nareshvishram/DSA-2026/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/nareshvishram/DSA-2026/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/nareshvishram/DSA-2026/tree/master/0207-course-schedule) |
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/nareshvishram/DSA-2026/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/nareshvishram/DSA-2026/tree/master/0207-course-schedule) |
 ## Topological Sort
 |  |
