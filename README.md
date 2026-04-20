@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nareshvishram/DSA-2026/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/nareshvishram/DSA-2026/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nareshvishram/DSA-2026/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/nareshvishram/DSA-2026/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/nareshvishram/DSA-2026/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nareshvishram/DSA-2026/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nareshvishram/DSA-2026/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/nareshvishram/DSA-2026/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nareshvishram/DSA-2026/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nareshvishram/DSA-2026/tree/master/0143-reorder-list) |
 | [0647-palindromic-substrings](https://github.com/nareshvishram/DSA-2026/tree/master/0647-palindromic-substrings) |
