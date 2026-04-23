@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nareshvishram/DSA-2026/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nareshvishram/DSA-2026/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nareshvishram/DSA-2026/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/nareshvishram/DSA-2026/tree/master/0383-ransom-note) |
 | [0647-palindromic-substrings](https://github.com/nareshvishram/DSA-2026/tree/master/0647-palindromic-substrings) |
 | [3340-check-balanced-string](https://github.com/nareshvishram/DSA-2026/tree/master/3340-check-balanced-string) |
 ## Stack
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/nareshvishram/DSA-2026/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/nareshvishram/DSA-2026/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/nareshvishram/DSA-2026/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/nareshvishram/DSA-2026/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nareshvishram/DSA-2026/tree/master/0232-implement-queue-using-stacks) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/nareshvishram/DSA-2026/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
