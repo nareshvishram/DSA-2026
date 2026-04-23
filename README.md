@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/nareshvishram/DSA-2026/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/nareshvishram/DSA-2026/tree/master/0704-binary-search) |
 ## Binary Search Tree
 |  |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/nareshvishram/DSA-2026/tree/master/0383-ransom-note) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nareshvishram/DSA-2026/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
