@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/nareshvishram/DSA-2026/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/nareshvishram/DSA-2026/tree/master/0070-climbing-stairs) |
+| [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/nareshvishram/DSA-2026/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/nareshvishram/DSA-2026/tree/master/0733-flood-fill) |
+| [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
 | [1765-map-of-highest-peak](https://github.com/nareshvishram/DSA-2026/tree/master/1765-map-of-highest-peak) |
 ## Hash Table
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/nareshvishram/DSA-2026/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/nareshvishram/DSA-2026/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nareshvishram/DSA-2026/tree/master/0217-contains-duplicate) |
+| [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/nareshvishram/DSA-2026/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nareshvishram/DSA-2026/tree/master/0169-majority-element) |
+| [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -185,4 +189,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/nareshvishram/DSA-2026/tree/master/0409-longest-palindrome) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
