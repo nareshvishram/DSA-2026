@@ -16,9 +16,6 @@ class Solution {
         }
         for (int i = 0; i < n; i++)
             ans[i] = suff[i] * pref[i];
-        System.out.println(Arrays.toString(pref));
-        System.out.println(Arrays.toString(suff));
-
         return ans;
     }
 }
