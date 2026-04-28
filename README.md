@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nareshvishram/DSA-2026/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/nareshvishram/DSA-2026/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/nareshvishram/DSA-2026/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/nareshvishram/DSA-2026/tree/master/0238-product-of-array-except-self) |
 | [0542-01-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/nareshvishram/DSA-2026/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/nareshvishram/DSA-2026/tree/master/0733-flood-fill) |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nareshvishram/DSA-2026/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
