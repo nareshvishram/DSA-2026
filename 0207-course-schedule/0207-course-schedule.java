@@ -18,6 +18,7 @@ class Solution {
         int v = 1;
         while (!q.isEmpty()) {
             int curr = q.poll();
+            System.out.println(curr);
             for (int child : graph.get(curr)) {
                 indeg[child]--;
                 if (indeg[child] == 0)
@@ -25,12 +26,14 @@ class Solution {
                 v++;
             }
         }
-        System.out.println(v + " " + q.size());
+        for (int x : indeg)
+            if (x != 0)
+                return false;
         if (!q.isEmpty())
-            return false;
-        if (v != numCourses)
             return false;
         return true;
 
     }
+
+    
 }
