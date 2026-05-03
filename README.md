@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nareshvishram/DSA-2026/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/nareshvishram/DSA-2026/tree/master/0409-longest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/nareshvishram/DSA-2026/tree/master/0647-palindromic-substrings) |
+| [0796-rotate-string](https://github.com/nareshvishram/DSA-2026/tree/master/0796-rotate-string) |
 | [3340-check-balanced-string](https://github.com/nareshvishram/DSA-2026/tree/master/3340-check-balanced-string) |
 ## Stack
 |  |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nareshvishram/DSA-2026/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/nareshvishram/DSA-2026/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
