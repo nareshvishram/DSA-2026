@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nareshvishram/DSA-2026/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/nareshvishram/DSA-2026/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/nareshvishram/DSA-2026/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
 ## Array
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/nareshvishram/DSA-2026/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/nareshvishram/DSA-2026/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nareshvishram/DSA-2026/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nareshvishram/DSA-2026/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nareshvishram/DSA-2026/tree/master/0056-merge-intervals) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nareshvishram/DSA-2026/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/nareshvishram/DSA-2026/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nareshvishram/DSA-2026/tree/master/0733-flood-fill) |
