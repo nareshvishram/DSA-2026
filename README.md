@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nareshvishram/DSA-2026/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/nareshvishram/DSA-2026/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nareshvishram/DSA-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/nareshvishram/DSA-2026/tree/master/0232-implement-queue-using-stacks) |
 ## Math
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nareshvishram/DSA-2026/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/nareshvishram/DSA-2026/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/nareshvishram/DSA-2026/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nareshvishram/DSA-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
 ## Array
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nareshvishram/DSA-2026/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nareshvishram/DSA-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nareshvishram/DSA-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nareshvishram/DSA-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/nareshvishram/DSA-2026/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/nareshvishram/DSA-2026/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/nareshvishram/DSA-2026/tree/master/0217-contains-duplicate) |
