@@ -14,7 +14,6 @@ class Solution {
         int pivot = l;
         if (pivot >= n)
             return bs(nums, target, 0, n - 1);
-        System.out.println(pivot + " " + r);
         if (target >= nums[0] && target <= nums[pivot - 1])
             return bs(nums, target, 0, pivot - 1);
         else if (target >= nums[pivot] && target <= nums[n - 1])
