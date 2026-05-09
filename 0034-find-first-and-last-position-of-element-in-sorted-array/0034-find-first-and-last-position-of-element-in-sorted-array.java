@@ -13,7 +13,6 @@ class Solution {
             else
                 l = mid + 1;
         }
-        System.out.println(mid);
         int[] ans = new int[] { -1, -1 };
         if (!flag)
             return ans;
