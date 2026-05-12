@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/nareshvishram/DSA-2026/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nareshvishram/DSA-2026/tree/master/0733-flood-fill) |
 | [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
+| [1095-find-in-mountain-array](https://github.com/nareshvishram/DSA-2026/tree/master/1095-find-in-mountain-array) |
 | [1765-map-of-highest-peak](https://github.com/nareshvishram/DSA-2026/tree/master/1765-map-of-highest-peak) |
 ## Hash Table
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nareshvishram/DSA-2026/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/nareshvishram/DSA-2026/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/nareshvishram/DSA-2026/tree/master/0704-binary-search) |
+| [1095-find-in-mountain-array](https://github.com/nareshvishram/DSA-2026/tree/master/1095-find-in-mountain-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/nareshvishram/DSA-2026/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/nareshvishram/DSA-2026/tree/master/1095-find-in-mountain-array) |
 ## Memoization
 |  |
 | ------- |
