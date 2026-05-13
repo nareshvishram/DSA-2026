@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nareshvishram/DSA-2026/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/nareshvishram/DSA-2026/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nareshvishram/DSA-2026/tree/master/0238-product-of-array-except-self) |
+| [0494-target-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/nareshvishram/DSA-2026/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/nareshvishram/DSA-2026/tree/master/0721-accounts-merge) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nareshvishram/DSA-2026/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/nareshvishram/DSA-2026/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nareshvishram/DSA-2026/tree/master/0070-climbing-stairs) |
+| [0494-target-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/nareshvishram/DSA-2026/tree/master/0647-palindromic-substrings) |
 ## Linked List
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/nareshvishram/DSA-2026/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
