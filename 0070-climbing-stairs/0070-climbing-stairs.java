@@ -1,28 +1,25 @@
 class Solution {
-    int map[];
     public int climbStairs(int n) {
-        if(n==1||n==2||n==3)
+        if (n <= 0)
+            return 0;
+        if (n == 1 || n == 2)
             return n;
-        map=new int[n+1];
-        Arrays.fill(map,-1);
-        return dp(n);
-        //return climbStairs(n-1)+climbStairs(n-2);
+        int dp[] = new int[n + 1];
+        dp[0] = 0;
+        dp[1] = 1;
+        dp[2] = 2;
+        for (int i = 3; i <= n; i++)
+            dp[i] = dp[i - 1] + dp[i - 2];
+        return dp[n];
+
     }
 
-    private int dp(int n){
-        if(n==1||n==2||n==3)
+    public int recursive(int n) {
+        if (n <= 0)
+            return 0;
+        if (n == 1 || n == 2)
             return n;
-        if(map[n]!=-1)
-            return map[n];
-        map[n]=dp(n-1)+dp(n-2);
-        return map[n];
-        
-    }
+        return recursive(n - 1) + recursive(n - 2);
 
-    public int climbStairsRec(int n) {
-        if(n==1||n==2||n==3)
-            return n;
-        return climbStairs(n-1)+climbStairs(n-2);
     }
-
 }
