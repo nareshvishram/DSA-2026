@@ -9,30 +9,26 @@
 
 class Solution {
     public int findInMountainArray(int target, MountainArray mount) {
-        int l = 0, r = mount.length() - 1;
-        while (l < r) {
-            int mid = (r - l) / 2 + l;
-            if (mount.get(mid) < mount.get(mid + 1))
-                l = mid + 1;
-            else
-                r = mid;
-        }
-        int peak = l;
-        if (mount.get(peak) == target)
-            return peak;
-        int left = bsAsc(0, peak, target, mount);
-        int right = bsDesc(peak + 1, mount.length() - 1, target, mount);
-
-        return left != -1 ? left : right;
-    }
-
-    private int bsAsc(int l, int r, int target, MountainArray mount) {
+        int l = 0, r = mount.length();
         while (l <= r) {
             int mid = (r - l) / 2 + l;
-            int val = mount.get(mid);
-            if (val == target)
+            if (mount.get(mid) > mount.get(mid - 1))
+                l = mid + 1;
+            else
+                r = mid - 1;
+        }
+        int left = bs1(target, 0, l - 1, mount);
+        if (left != -1)
+            return left;
+        return bs2(target, l, mount.length(), mount);
+    }
+
+    private int bs1(int target, int l, int r, MountainArray mount) {
+        while (l <= r) {
+            int mid = (r - l) / 2 + l;
+            if (mount.get(mid) == target)
                 return mid;
-            if (val > target)
+            if (mount.get(mid) > target)
                 r = mid - 1;
             else
                 l = mid + 1;
@@ -40,16 +36,15 @@ class Solution {
         return -1;
     }
 
-    private int bsDesc(int l, int r, int target, MountainArray mount) {
+    private int bs2(int target, int l, int r, MountainArray mount) {
         while (l <= r) {
             int mid = (r - l) / 2 + l;
-            int val = mount.get(mid);
-            if (val == target)
+            if (mount.get(mid) == target)
                 return mid;
-            if (val > target)
-                l = mid + 1;
-            else
+            if (mount.get(mid) < target)
                 r = mid - 1;
+            else
+                l = mid + 1;
         }
         return -1;
     }
