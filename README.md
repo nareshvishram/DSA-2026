@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nareshvishram/DSA-2026/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nareshvishram/DSA-2026/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nareshvishram/DSA-2026/tree/master/0283-move-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/nareshvishram/DSA-2026/tree/master/0704-binary-search) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/nareshvishram/DSA-2026/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/nareshvishram/DSA-2026/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nareshvishram/DSA-2026/tree/master/0213-house-robber-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/nareshvishram/DSA-2026/tree/master/0647-palindromic-substrings) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/nareshvishram/DSA-2026/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/nareshvishram/DSA-2026/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nareshvishram/DSA-2026/tree/master/0733-flood-fill) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nareshvishram/DSA-2026/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/nareshvishram/DSA-2026/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/nareshvishram/DSA-2026/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nareshvishram/DSA-2026/tree/master/0733-flood-fill) |
@@ -175,11 +179,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/nareshvishram/DSA-2026/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/nareshvishram/DSA-2026/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/nareshvishram/DSA-2026/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nareshvishram/DSA-2026/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/nareshvishram/DSA-2026/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -193,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/nareshvishram/DSA-2026/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nareshvishram/DSA-2026/tree/master/0733-flood-fill) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nareshvishram/DSA-2026/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -271,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nareshvishram/DSA-2026/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
