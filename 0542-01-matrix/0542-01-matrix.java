@@ -1,36 +1,35 @@
 class Solution {
-    int[][] mat;
     int[][] dist;
-    int[][] dir = new int[][] { { 1, 0 }, { -1, 0 }, { 0, -1 }, { 0, 1 } };
+    int[][] mat;
+    int[][] dir = new int[][] { { 1, 0 }, { -1, 0 }, { 0, 1 }, { 0, -1 } };
 
-    public int[][] updateMatrix(int[][] matrix) {
-        this.mat = matrix;
-        dist = new int[matrix.length][matrix[0].length];
-        multiSourceBfs();
+    public int[][] updateMatrix(int[][] mat) {
+        this.mat = mat;
+        dist = new int[mat.length][mat[0].length];
+        bfs();
         return dist;
     }
 
-    private void multiSourceBfs() {
+    private void bfs() {
         Queue<int[]> q = new LinkedList<>();
-        for (int i = 0; i < mat.length; i++) {
-            for (int j = 0; j < mat[0].length; j++) {
-                if (mat[i][j] == 0) {
-                    dist[i][j] = 0;
-                    q.offer(new int[] { i, j });
-                } else {
+        int m = mat.length, n = mat[0].length;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (mat[i][j] == 0)
+                    q.add(new int[] { i, j });
+                else
                     dist[i][j] = -1;
-                }
             }
         }
         while (!q.isEmpty()) {
             int[] curr = q.poll();
             int x = curr[0], y = curr[1];
             for (int i = 0; i < 4; i++) {
-                int nx = x + dir[i][0];
-                int ny = y + dir[i][1];
-                if (nx >= 0 && ny >= 0 && nx < mat.length && ny < mat[0].length && dist[nx][ny] == -1) {
-                    dist[nx][ny] = dist[x][y] + 1;
-                    q.offer(new int[]{nx,ny});
+                int X = dir[i][0] + x;
+                int Y = dir[i][1] + y;
+                if (X >= 0 && Y >= 0 && X < m && Y < n && dist[X][Y] == -1) {
+                    dist[X][Y] = 1 + dist[x][y];
+                    q.add(new int[] { X, Y });
                 }
             }
         }
