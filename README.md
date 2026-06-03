@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nareshvishram/DSA-2026/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/nareshvishram/DSA-2026/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nareshvishram/DSA-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nareshvishram/DSA-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/nareshvishram/DSA-2026/tree/master/0120-triangle) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nareshvishram/DSA-2026/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nareshvishram/DSA-2026/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nareshvishram/DSA-2026/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/nareshvishram/DSA-2026/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nareshvishram/DSA-2026/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nareshvishram/DSA-2026/tree/master/0217-contains-duplicate) |
 | [0721-accounts-merge](https://github.com/nareshvishram/DSA-2026/tree/master/0721-accounts-merge) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nareshvishram/DSA-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/nareshvishram/DSA-2026/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/nareshvishram/DSA-2026/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/nareshvishram/DSA-2026/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nareshvishram/DSA-2026/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nareshvishram/DSA-2026/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nareshvishram/DSA-2026/tree/master/0143-reorder-list) |
