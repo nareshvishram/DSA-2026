@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nareshvishram/DSA-2026/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nareshvishram/DSA-2026/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/DSA-2026/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/nareshvishram/DSA-2026/tree/master/0704-binary-search) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/nareshvishram/DSA-2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nareshvishram/DSA-2026/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nareshvishram/DSA-2026/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/DSA-2026/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nareshvishram/DSA-2026/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/nareshvishram/DSA-2026/tree/master/0409-longest-palindrome) |
 | [0721-accounts-merge](https://github.com/nareshvishram/DSA-2026/tree/master/0721-accounts-merge) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nareshvishram/DSA-2026/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nareshvishram/DSA-2026/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nareshvishram/DSA-2026/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/DSA-2026/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/nareshvishram/DSA-2026/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nareshvishram/DSA-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nareshvishram/DSA-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/nareshvishram/DSA-2026/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/DSA-2026/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nareshvishram/DSA-2026/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/DSA-2026/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nareshvishram/DSA-2026/tree/master/0383-ransom-note) |
 ## Interactive
 |  |
@@ -307,10 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/DSA-2026/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/DSA-2026/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
@@ -332,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nareshvishram/DSA-2026/tree/master/0042-trapping-rain-water) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/DSA-2026/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
