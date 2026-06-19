@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/nareshvishram/DSA-2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/nareshvishram/DSA-2026/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/nareshvishram/DSA-2026/tree/master/0994-rotting-oranges) |
 | [1095-find-in-mountain-array](https://github.com/nareshvishram/DSA-2026/tree/master/1095-find-in-mountain-array) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nareshvishram/DSA-2026/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1765-map-of-highest-peak](https://github.com/nareshvishram/DSA-2026/tree/master/1765-map-of-highest-peak) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/nareshvishram/DSA-2026/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nareshvishram/DSA-2026/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/nareshvishram/DSA-2026/tree/master/0994-rotting-oranges) |
 | [1765-map-of-highest-peak](https://github.com/nareshvishram/DSA-2026/tree/master/1765-map-of-highest-peak) |
 ## Graph Theory
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nareshvishram/DSA-2026/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/nareshvishram/DSA-2026/tree/master/0994-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nareshvishram/DSA-2026/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1765-map-of-highest-peak](https://github.com/nareshvishram/DSA-2026/tree/master/1765-map-of-highest-peak) |
 ## Divide and Conquer
