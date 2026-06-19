@@ -12,7 +12,6 @@ class Solution {
         }
         int direct[][] = { { 1, 0 }, { -1, 0 }, { 0, -1 }, { 0, 1 } };
         int time = -1;
-        System.out.println(q);
         while (!q.isEmpty()) {
             int size = q.size();
             time++;
@@ -20,7 +19,6 @@ class Solution {
                 Node curr = q.poll();
                 int x = curr.x;
                 int y = curr.y;
-                System.out.println(curr);
                 for (int i = 0; i < 4; i++) {
                     if (isValid(direct[i][0] + x, direct[i][1] + y, grid)) {
                         q.add(new Node(direct[i][0] + x, direct[i][1] + y, curr.time + 1));
