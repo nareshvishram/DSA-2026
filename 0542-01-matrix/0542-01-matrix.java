@@ -1,37 +1,39 @@
 class Solution {
-    int[][] dist;
-    int[][] mat;
-    int[][] dir = new int[][] { { 1, 0 }, { -1, 0 }, { 0, 1 }, { 0, -1 } };
-
     public int[][] updateMatrix(int[][] mat) {
-        this.mat = mat;
-        dist = new int[mat.length][mat[0].length];
-        bfs();
-        return dist;
-    }
-
-    private void bfs() {
-        Queue<int[]> q = new LinkedList<>();
+        Queue<Pair> q = new LinkedList<>();
         int m = mat.length, n = mat[0].length;
+        int[][] dist = new int[m][n];
+        int[][] direx = { { 1, 0 }, { -1, 0 }, { 0, 1 }, { 0, -1 } };
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (mat[i][j] == 0)
-                    q.add(new int[] { i, j });
-                else
+                if (mat[i][j] == 1) {
+                    dist[i][j] = 0;
                     dist[i][j] = -1;
+                } else
+                    q.add(new Pair(i, j));
             }
         }
         while (!q.isEmpty()) {
-            int[] curr = q.poll();
-            int x = curr[0], y = curr[1];
+            Pair p = q.poll();
             for (int i = 0; i < 4; i++) {
-                int X = dir[i][0] + x;
-                int Y = dir[i][1] + y;
-                if (X >= 0 && Y >= 0 && X < m && Y < n && dist[X][Y] == -1) {
-                    dist[X][Y] = 1 + dist[x][y];
-                    q.add(new int[] { X, Y });
+                int x = direx[i][0] + p.x;
+                int y = direx[i][1] + p.y;
+                if (x >= 0 && y >= 0 && x < m && y < n && dist[x][y] == -1) {
+                    dist[x][y] = dist[p.x][p.y] + 1;
+                    q.add(new Pair(x, y));
                 }
             }
         }
+        return dist;
+    }
+}
+
+class Pair {
+    int x;
+    int y;
+
+    Pair(int x, int y) {
+        this.x = x;
+        this.y = y;
     }
 }
