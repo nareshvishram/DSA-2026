@@ -7,7 +7,7 @@ class Solution {
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 2)
-                    q.add(new Node(i, j, 0));
+                    q.add(new Node(i, j));
             }
         }
         int direct[][] = { { 1, 0 }, { -1, 0 }, { 0, -1 }, { 0, 1 } };
@@ -21,7 +21,7 @@ class Solution {
                 int y = curr.y;
                 for (int i = 0; i < 4; i++) {
                     if (isValid(direct[i][0] + x, direct[i][1] + y, grid)) {
-                        q.add(new Node(direct[i][0] + x, direct[i][1] + y, curr.time + 1));
+                        q.add(new Node(direct[i][0] + x, direct[i][1] + y));
                         grid[direct[i][0] + x][direct[i][1] + y] = 2;
                     }
                 }
@@ -44,20 +44,9 @@ class Solution {
 class Node {
     int x;
     int y;
-    int time;
 
-    Node(int x, int y, int time) {
+    Node(int x, int y) {
         this.x = x;
         this.y = y;
-        this.time = time;
-    }
-
-    @Override
-    public String toString() {
-        return "Node{" +
-                "x=" + x +
-                ", y=" + y +
-                ", time=" + time +
-                '}';
     }
 }
