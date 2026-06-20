@@ -26,7 +26,7 @@ class Solution {
                 components++;
             }
         }
-        System.out.println("components:" + components);
+        //System.out.println("components:" + components);
         return ans;
     }
 
