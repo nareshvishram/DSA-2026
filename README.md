@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/nareshvishram/DSA-2026/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nareshvishram/DSA-2026/tree/master/0733-flood-fill) |
+| [2685-count-the-number-of-complete-components](https://github.com/nareshvishram/DSA-2026/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/nareshvishram/DSA-2026/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/nareshvishram/DSA-2026/tree/master/0994-rotting-oranges) |
 | [1765-map-of-highest-peak](https://github.com/nareshvishram/DSA-2026/tree/master/1765-map-of-highest-peak) |
+| [2685-count-the-number-of-complete-components](https://github.com/nareshvishram/DSA-2026/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/nareshvishram/DSA-2026/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nareshvishram/DSA-2026/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2685-count-the-number-of-complete-components](https://github.com/nareshvishram/DSA-2026/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/nareshvishram/DSA-2026/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/nareshvishram/DSA-2026/tree/master/0721-accounts-merge) |
+| [2685-count-the-number-of-complete-components](https://github.com/nareshvishram/DSA-2026/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
