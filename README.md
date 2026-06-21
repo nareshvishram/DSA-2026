@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/nareshvishram/DSA-2026/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/nareshvishram/DSA-2026/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nareshvishram/DSA-2026/tree/master/0733-flood-fill) |
 | [2685-count-the-number-of-complete-components](https://github.com/nareshvishram/DSA-2026/tree/master/2685-count-the-number-of-complete-components) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/nareshvishram/DSA-2026/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0542-01-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/nareshvishram/DSA-2026/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nareshvishram/DSA-2026/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/nareshvishram/DSA-2026/tree/master/0994-rotting-oranges) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
