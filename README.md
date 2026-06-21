@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/nareshvishram/DSA-2026/tree/master/0113-path-sum-ii) |
 | [0133-clone-graph](https://github.com/nareshvishram/DSA-2026/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/nareshvishram/DSA-2026/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nareshvishram/DSA-2026/tree/master/0207-course-schedule) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/nareshvishram/DSA-2026/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/nareshvishram/DSA-2026/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/nareshvishram/DSA-2026/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nareshvishram/DSA-2026/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nareshvishram/DSA-2026/tree/master/0090-subsets-ii) |
+| [0113-path-sum-ii](https://github.com/nareshvishram/DSA-2026/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/nareshvishram/DSA-2026/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0494-target-sum) |
 ## Monotonic Stack
