@@ -12,8 +12,10 @@ class Solution {
     }
 
     private void bt(int n, int k, int start, List<Integer> tmp) {
-        if (tmp.size() == k)
+        if (tmp.size() == k){
             ans.add(new ArrayList<>(tmp));
+            return;
+        }
         for (int i = start; i < n; i++) {
             tmp.add(arr[i]);
             bt(n, k, i + 1, tmp);
