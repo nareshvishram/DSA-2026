@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nareshvishram/DSA-2026/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/nareshvishram/DSA-2026/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nareshvishram/DSA-2026/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/nareshvishram/DSA-2026/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/nareshvishram/DSA-2026/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/nareshvishram/DSA-2026/tree/master/0409-longest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/nareshvishram/DSA-2026/tree/master/0647-palindromic-substrings) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nareshvishram/DSA-2026/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/nareshvishram/DSA-2026/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0543-diameter-of-binary-tree) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nareshvishram/DSA-2026/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nareshvishram/DSA-2026/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/nareshvishram/DSA-2026/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nareshvishram/DSA-2026/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nareshvishram/DSA-2026/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/nareshvishram/DSA-2026/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0494-target-sum) |
 ## Monotonic Stack
 |  |
