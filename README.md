@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nareshvishram/DSA-2026/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/nareshvishram/DSA-2026/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/nareshvishram/DSA-2026/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nareshvishram/DSA-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nareshvishram/DSA-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nareshvishram/DSA-2026/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nareshvishram/DSA-2026/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/nareshvishram/DSA-2026/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/nareshvishram/DSA-2026/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0494-target-sum) |
 ## Monotonic Stack
 |  |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nareshvishram/DSA-2026/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nareshvishram/DSA-2026/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
