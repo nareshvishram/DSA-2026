@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nareshvishram/DSA-2026/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/nareshvishram/DSA-2026/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0494-target-sum) |
 ## Monotonic Stack
 |  |
