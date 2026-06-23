@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nareshvishram/DSA-2026/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/nareshvishram/DSA-2026/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0437-path-sum-iii](https://github.com/nareshvishram/DSA-2026/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/nareshvishram/DSA-2026/tree/master/0721-accounts-merge) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nareshvishram/DSA-2026/tree/master/0257-binary-tree-paths) |
+| [0437-path-sum-iii](https://github.com/nareshvishram/DSA-2026/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nareshvishram/DSA-2026/tree/master/0257-binary-tree-paths) |
+| [0437-path-sum-iii](https://github.com/nareshvishram/DSA-2026/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nareshvishram/DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search
