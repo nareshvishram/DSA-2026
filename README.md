@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nareshvishram/DSA-2026/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/nareshvishram/DSA-2026/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nareshvishram/DSA-2026/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0523-continuous-subarray-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/nareshvishram/DSA-2026/tree/master/0973-k-closest-points-to-origin) |
 ## Array
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/nareshvishram/DSA-2026/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0494-target-sum) |
+| [0523-continuous-subarray-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/nareshvishram/DSA-2026/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/nareshvishram/DSA-2026/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/nareshvishram/DSA-2026/tree/master/0721-accounts-merge) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nareshvishram/DSA-2026/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nareshvishram/DSA-2026/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/nareshvishram/DSA-2026/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0523-continuous-subarray-sum) |
 | [0721-accounts-merge](https://github.com/nareshvishram/DSA-2026/tree/master/0721-accounts-merge) |
 ## Sorting
 |  |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nareshvishram/DSA-2026/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/nareshvishram/DSA-2026/tree/master/0523-continuous-subarray-sum) |
 ## Sliding Window
 |  |
 | ------- |
